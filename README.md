@@ -1,5 +1,5 @@
 # React Native Challenge
-O aplicativo funcionará em cima da api do github [Documentação API GITHUB](https://developer.github.com/v3/ "Api Github") onde existirá uma tela de login que o usuário digitará o nickname de um usuário do github, ao buscar esse usuário, ele será redirecionado para uma tela interna onde estará disponível informações gerais do usuário conforme o protótipo, com uma navegação de tabs para **Início**, **Repositórios**, **Seguidores**, **Seguindo**, **Sair**.
+O aplicativo funcionará em cima da api do github [Documentação API GITHUB](https://developer.github.com/v3/ "Api Github"), onde deve existir uma tela de login que o usuário digitará o nickname de um usuário do github, ao buscar esse usuário, ele deve ser redirecionado para uma tela interna onde estará disponível informações gerais do usuário conforme o protótipo, com uma navegação de tabs para **Início**, **Repositórios**, **Seguidores**, **Seguindo**, **Sair**.
 
 ### Protótipo da aplicação
 - [x] O protótipo do aplicativo está disponível no link https: // (tente reproduzir o layout da forma mais fiel possível)
