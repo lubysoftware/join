@@ -1,7 +1,7 @@
 # React Native Challenge
 
 ### Protótipo da aplicação
-- [x] O protótipo do aplicativo está disponível no link https: // (tente reproduzir o layout o mais fielmente possível)
+- [x] O protótipo do aplicativo está disponível no link https: // (tente reproduzir o layout da forma mais fiel possível)
 
 ### Requisitos não funcionais
 - [x] O aplicativo deve usar expo ou react-native cli.
