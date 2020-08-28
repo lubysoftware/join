@@ -1,24 +1,25 @@
-# ReactJS Challenge
+# Nodejs Challenge
 
-A aplicação sera uma PWA que funcionará em cima da api do github [Documentação API GITHUB](https://developer.github.com/v3/ 'Api Github'), onde deve existir uma tela de login que o usuário digitará o nickname de um usuário do github, ao buscar esse usuário, ele deve ser redirecionado para uma tela interna onde estará disponível informações gerais do usuário conforme o protótipo, com uma navegação de tabs para **Início**, **Repositórios**, **Seguidores**, **Seguindo**, **Sair**.
+A aplicação sera uma api que armazenara informações a respeito dos usuários dos github
 
 ### Protótipo da aplicação
 
-- [x] O protótipo do aplicativo está disponível no link https: // (tente reproduzir o layout da forma mais fiel possível)
+- [x] A sua Api irá fornecer dados para o protótipo disponibilizado no link https: //
 
 ### Requisitos não funcionais
 
-- [x] O aplicativo deve usar reactjs.
-- [x] Você deve gerenciar suas rotas com o react-router.
-- [x] Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
-- [ ] Para estilizar o aplicativo, adoraríamos ver você usando componentes estilizados, mas não é obrigatório.
+- [x] A aplicação deverá ser feita em utilizando express ou adonisjs.
+- [x] Os métodos get, post, put, devem ser coerentes com os retornos necessários definidos no protótipo. Ex: na tela de repositórios é necessário retornar um objeto {
+      data: (array de repositório com suas respectivas stars),
+      count: quantidade de itens retornados.
+      }
 
 ### Requisitos funcionais
 
-- [x] Você deve permitir que um usuário seja autenticado buscando pelo username do github
-- [x] Você deve armazenas as informações de (login, name, email, location, company, bio, avatar_url, followers_url, following_url, organizations_url, starred_url, public_repos, public_gists, followers, following)
-- [x] Você deve possuir uma navegação por abas com items ("Início", "Repositórios", "Seguidores", "Seguindo")
-- [x] Quando clicado nas abas deve ser exibido as listagens respectivas de ("Início", Repositórios: repos_url, Seguidores: followers_url e Seguindo: following_url)
-- [x] Quando o usuário estiver dentro de uma aba de seguidores ou seguindo, você deve ter um botão que torne aquele usuário o principal da aplicação, substituindo o usuário salvo na autenticação pelo usuário da tela atual.
-- [x] Na tela início, você deve ter um botão que permita o usuário sair da aplicação o redirecionando para a tela de autenticação
-- [x] Na tela início, você deve apenas renderizar as informações do protótipo se a informação de fato existir no retorno da requisição de autenticação.
+- [x] CRUD de users (nome, email, localização, avatar, username, bio). Um usuário deve ser único
+- [x] O método de autenticação devera buscar se o usuário esta cadastrado na tabela users, se sim retornar os dados com sucesso, e armazenar o id do usuário e a data da requisição em uma tabela chamada Tokens.
+- [x] CRUD de follower (todo follower deve ser um usuário, criar a relação pertinente para follower e user).
+- [x] CRUD de following (todo following deve ser um usuário, criar a relação pertinente para following e user).
+- [x] CRUD de repositories (nome, description, public, slug). A propriedade slug deve ser concatenada com o nome de usuário e o nome do repositório.
+- [x] CRUD de repositories stars (Esse crud devera manter a relação de usuários que deram stars para um repositório, criar relação pertinente entre users, repositories).
+- [] Gostaríamos de ver os campos necessários para os endpoints fossem validados na request, opcional.
