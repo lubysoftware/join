@@ -8,7 +8,7 @@ A aplicação sera uma api que armazenara informações a respeito dos usuários
 
 ### Requisitos não funcionais
 
-- [x] A aplicação deverá ser feita em utilizando express ou adonisjs.
+- [x] A aplicação deverá ser feita em utilizando express com o (sequelize) ou adonisjs.
 - [x] Os métodos get, post, put, devem ser coerentes com os retornos necessários definidos no protótipo. Ex: na tela de repositórios é necessário retornar um objeto {
       data: (array de repositório com suas respectivas stars),
       count: quantidade de itens retornados.
