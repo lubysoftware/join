@@ -4,7 +4,7 @@ A aplicação sera uma PWA que funcionará em cima da api do github [Documentaç
 
 ### Protótipo da aplicação
 
-- [x] O protótipo do aplicativo está disponível no link https: // (tente reproduzir o layout da forma mais fiel possível)
+- [x] O protótipo do aplicativo está disponível no link [link](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/ 'Protótipo') (tente reproduzir o layout da forma mais fiel possível)
 
 ### Requisitos não funcionais
 
