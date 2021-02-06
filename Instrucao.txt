@@ -1,0 +1,9 @@
+Este é o meu resultado para a implementação do exercício 3 Ele é um arquivo de projeto do Visual Studio 2019 do tipo formulário do Windows!
+
+Acredito que ficou intuitivo o suficiente mas tenho algumas instruções!
+
+-Ele possui 2 menus para acessar as janelas de alteração de carteira do cliente e estoque de modo geral;
+
+-No estoque para adicionar, só preencher todos os campos e clicar em adicionar; Se precisar apagar, selecione o produto e clique em remover; Se precisar trocar a quantidade, coloque o novo valor em quantidade e clique abastecer.
+
+Acredito que é so isso, Obrigado pela atenção :)
