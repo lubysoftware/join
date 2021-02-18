@@ -78,7 +78,7 @@ CalcularPremio(100, "basic", 3) == 300.00;//true
 
     BuscarPessoa(vetor, "Doe") == new string[] { "John Doe", "Jane Doe" };//true
     BuscarPessoa(vetor, "Alice") == new string[] { "Alice Jones" };//true
-    BuscarPessoa(vetor, "Louis") == new string[] { };//true
+    BuscarPessoa(vetor, "James") == new string[] { };//true
     ```
 -----
 - 1.9 Implemente a função abaixo que obtém uma string com números separados por vírgula e transforma em um array de array de inteiros com no máximo dois elementos.
