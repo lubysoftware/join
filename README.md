@@ -13,6 +13,7 @@ A aplicação sera uma PWA que funcionará em cima da api do github [Documentaç
 - [x] Você deve gerenciar suas rotas com o react-router.
 - [x] Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
 - [ ] Para estilizar o aplicativo, adoraríamos ver você usando componentes estilizados, mas não é obrigatório.
+- [ ] Adoraríamos ver você usando Typescript para tipar os dados, mas não é obrigatório.
 
 ### Requisitos funcionais
 
