@@ -3,7 +3,7 @@
 > - Esse teste inclui 10 questões envolvendo lógica de programação e estrutura de dados.
 > - 10 questões envolvendo criações de scripts SQL.
 > - E um desafio para criação de um pequeno aplicativo que replica um funcionamento de uma máquina de venda de bebidas em lata, utilizando os conceitos em orientação a objetos.
-> - As questões do teste devem ser realizadas preferêncialmente com **C#**.
+> - As questões do teste devem ser realizadas preferencialmente com **C#**.
 > - Pode ser utilizado qualquer função nativa da própria linguagem utilizada. 
 > - Não utilizar dependências ou bibliotecas externas.
 
