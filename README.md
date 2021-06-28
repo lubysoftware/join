@@ -2,8 +2,8 @@
 
 > - Esse teste inclui 10 questões envolvendo lógica de programação e estrutura de dados.
 > - 10 questões envolvendo criações de scripts SQL.
-> - E um desafio para criação de um pequeno aplicativo que replica um funcionamento de uma máquina de venda de bebidas em lata, utilizando os conceitos em orientação a objetos.
-> - As questões do teste devem ser realizadas preferencialmente com **C#**.
+> - Desafio para criação de um pequeno aplicativo que replica um funcionamento de uma máquina de venda de bebidas em lata, utilizando os conceitos em orientação a objetos.
+> - As 10 questões envolvendo lógica de programação e estrutura de dados e o desafio devem ser realizados preferencialmente com **C#**.
 > - Pode ser utilizado qualquer função nativa da própria linguagem utilizada. 
 > - Não utilizar dependências ou bibliotecas externas.
 
@@ -165,7 +165,7 @@ CalcularPremio(100, "basic", 3) == 300.00;//true
 # 3 Desafio em Orientação a Objetos
 
 ### Desenvolver programa que rode uma **Vending Machine (Máquina de venda de bebidas em lata)** utilizando orientação objetos conforme as regras abaixo.
-> - Crie uma interface de usuário simples para execução da máquina.
+> - Crie uma interface de usuário simples para execução da máquina. (Utilizando Console por exemplo)
 > - A máquina deverá possuir um estoque de produtos com valor e quantidade de cada produto. 
 >   A quantidade de produto no estoque da máquina deve ser alterado conforme realização de vendas dos produtos.
 > - A máquina deverá ter opção para visualizar estoque e quantidade disponível.
