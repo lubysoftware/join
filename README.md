@@ -20,7 +20,7 @@ Descrição: Deve ser possível editar um usuário.
 
 - **Listagem:**
 
-Descrição: Deve ser possível listar todos os funcionários (Gostaríamos de ver paginado, porém, é opcional)
+Descrição: Deve ser possível listar todos os funcionários **(Gostaríamos de ver paginado, porém, é opcional)**
 
 - **Visualizar:**
 
