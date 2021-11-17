@@ -14,7 +14,7 @@
 
 **Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context.
 
-**URL:** https://autoluby.dev.luby.com.br/login (Método POST)
+**URL:** https://autoluby.dev.luby.com.br/login **(Método POST)**
 
 **email:** admin@luby.com.br
 
@@ -24,13 +24,13 @@
 
 **Descrição:** Deve ter uma página para listar os funcionários. Por padrão essa rota retorna uma listagem com paginação, porém, você pode enviar o filtro "noPaginate", por parâmetro na url, para retornar os dados sem paginação.
 
-**URL:** https://autoluby.dev.luby.com.br/employees (Método GET)
+**URL:** https://autoluby.dev.luby.com.br/employees **(Método GET)**
 
 **RF03 - Listagem de veículos**
 
 **Descrição:** Deve ter uma página para listar todos os veículos vendidos.
 
-**URL:** https://autoluby.dev.luby.com.br/vehicles (Método GET)
+**URL:** https://autoluby.dev.luby.com.br/vehicles **(Método GET)**
 
 **Opcional:** O usuário poderá filtrar os veículos por modelo passando por parâmetro o filtro "model="NomeDoModelo" ", porém, é opcional.
 
@@ -49,3 +49,5 @@
 **RNF04 - Gostaríamos de ver você utilizando o styled-components (OPCIONAL)**
 
 **RNF05 - Você deve gerenciar todo o estado do aplicativo com Redux ou Context Api.**
+
+#### **Atenção: ao finalizar a prova, o candidato deverá seguir as instruções do e-mail recebido!**
