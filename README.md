@@ -1,4 +1,3 @@
-
 # AutoLuby
 
 ### Descrição da prova:
@@ -63,11 +62,11 @@ Descrição: você pode filtrar veículos vendidos ou disponíveis
 
 ##### RF06 - Vender veículo
 
-Descrição: ao realizar esta ação, informações como: data, status do veículo, valor da venda e quem vendeu
+Descrição: ao realizar esta ação, informações como: data, status do veículo, valor da venda e quem vendeu, devem ser armazenadas no banco.
 
 ##### RF07 - Reservar veículo
 
-Descrição: ao realizar esta ação, informações como: data, valor da reserva, quem vendeu.
+Descrição: ao realizar esta ação, informações como: data, valor da reserva e quem vendeu, devem ser armazenadas no banco.
 
 ##### RF08 - Formatar todas as datas apresentadas ao usuário (OPCIONAL)
 
