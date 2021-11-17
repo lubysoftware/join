@@ -83,3 +83,5 @@ Descrição: todas as datas deverão estar no formato DD/MM/yyyy
 **RNF04 - Gostaríamos de ver a utilização de typescript (OPCIONAL)**
 
 **RNF05 - Gostaríamos que os campos necessários para os endpoints fossem validados na requisição. (OPCIONAL)**
+
+### **Atenção:** ao finalizar a prova, o candidato deverá seguir as instruções do e-mail recebido!
