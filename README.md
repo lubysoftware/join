@@ -3,7 +3,7 @@
 ### Descrição da prova:
 
 1. Esta prova consiste na criação de um sistema para gerenciamento de uma loja que realiza venda de veículos.
-2. Todos os campos que não estão marcados com (OPCIONAL) são obrigatórios.
+2. Todos os campos que não estão marcados com **(OPCIONAL)** são obrigatórios.
 3. As colunas que descrevemos para os cruds poderão ser modificadas, de acordo com o que o desenvolvedor acredita ser a melhor forma de codificação. A criação de colunas e tabelas, poderão ser incluídas também, de acordo com o que o desenvolvedor sentir a necessidade.
 
 ### **REQUISITOS FUNCIONAIS**
