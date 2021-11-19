@@ -1,0 +1,12 @@
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\bin\Debug\MaquinaDeVendas.exe.config
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\bin\Debug\MaquinaDeVendas.exe
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\bin\Debug\MaquinaDeVendas.pdb
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.csprojAssemblyReference.cache
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.Form1.resources
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.Properties.Resources.resources
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.csproj.GenerateResource.cache
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.exe
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.pdb
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.form_carteira.resources
+C:\Users\Killu\Desktop\C#\Bebidas\MaquinaDeVendas\MaquinaDeVendas\obj\Debug\MaquinaDeVendas.Form_estoque.resources
