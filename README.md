@@ -6,7 +6,7 @@
 2. Todos os campos que não estão marcados com **(OPCIONAL)** são obrigatórios.
 3. Deve ser utilizado para criação deste front-end o seguinte protótipo:
    1. Modo apresentação: https://www.figma.com/proto/Ql5IPzhsJX7YMR8ZZjdwgA/LabLuby?node-id=199%3A1517&amp;scaling=scale-down&amp;page-id=0%3A1&amp;starting-point-node-id=199%3A1517&amp;show-proto-sidebar=1https://www.figma.com/proto/Ql5IPzhsJX7YMR8ZZjdwgA/LabLuby?node-id=199%3A1517
-   2. Modo desenvolvimento:[ https://www.figma.com/file/Ql5IPzhsJX7YMR8ZZjdwgA/LabLuby?node-id=0%3A1https://www.figma.com/file/Ql5IPzhsJX7YMR8ZZjdwgA/LabLuby?node-id=60%3A394]()
+   2. Modo desenvolvimento: https://www.figma.com/file/Ql5IPzhsJX7YMR8ZZjdwgA/LabLuby?node-id=0%3A1https://www.figma.com/file/Ql5IPzhsJX7YMR8ZZjdwgA/LabLuby?node-id=60%3A394
 
 #### REQUISITOS FUNCIONAIS
 
