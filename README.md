@@ -12,7 +12,7 @@
 
 **RF01 - Autenticação**
 
-**Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context.
+**Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context. Para acessar as rotas privadas você deverá fornecer no cabeçalho da requisição a Autenticação do tipo Bearer Token.
 
 **URL:** https://autoluby.dev.luby.com.br/login **(Método POST)**
 
