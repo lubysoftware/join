@@ -12,7 +12,7 @@
 
 **RF01 - Autenticação**
 
-**Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context. Para acessar as rotas privadas você deverá fornecer no cabeçalho da requisição a Autenticação do tipo Bearer Token.
+**Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context.
 
 **URL:** https://autoluby.dev.luby.com.br/login **(Método POST)**
 
@@ -25,12 +25,22 @@
 **Descrição:** Deve ter uma página para listar os funcionários. Por padrão essa rota retorna uma listagem com paginação, porém, você pode enviar o filtro "noPaginate", por parâmetro na url, para retornar os dados sem paginação.
 
 **URL:** https://autoluby.dev.luby.com.br/employees **(Método GET)**
+**Header:** { <br />
+              Accept: application/json,<br />
+              Content-Type: application/json,<br />
+              Authorization: `Bearer + token`<br />
+            }
 
 **RF03 - Listagem de veículos**
 
 **Descrição:** Deve ter uma página para listar todos os veículos vendidos.
 
 **URL:** https://autoluby.dev.luby.com.br/vehicles **(Método GET)**
+**Header:** { <br />
+              Accept: application/json,<br />
+              Content-Type: application/json,<br />
+              Authorization: `Bearer + token`<br />
+            }
 
 **Opcional:** O usuário poderá filtrar os veículos por modelo passando por parâmetro o filtro "model="NomeDoModelo" ", porém, é opcional.
 
