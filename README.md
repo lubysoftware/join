@@ -24,7 +24,7 @@
 
 **Descrição:** Deve ter uma página para listar os funcionários. Por padrão essa rota retorna uma listagem com paginação, porém, você pode enviar o filtro "noPaginate", por parâmetro na url, para retornar os dados sem paginação.
 
-**URL:** https://autoluby.dev.luby.com.br/employees **(Método GET)**
+**URL:** https://autoluby.dev.luby.com.br/employees **(Método GET)**<br />
 **Header:** { <br />
               Accept: application/json,<br />
               Content-Type: application/json,<br />
@@ -35,7 +35,7 @@
 
 **Descrição:** Deve ter uma página para listar todos os veículos vendidos.
 
-**URL:** https://autoluby.dev.luby.com.br/vehicles **(Método GET)**
+**URL:** https://autoluby.dev.luby.com.br/vehicles **(Método GET)**<br />
 **Header:** { <br />
               Accept: application/json,<br />
               Content-Type: application/json,<br />
