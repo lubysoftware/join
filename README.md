@@ -13,7 +13,7 @@
 **RF01 - Autenticação**
 
 **Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context.
-<br/> **Importante: Utilizar o token retornado para autenticação das requisições privadas**
+<br/> **Importante: utilizar o token retornado para autenticação das requisições privadas**
 
 **URL:** https://autoluby.dev.luby.com.br/login **(Método POST)**
 
