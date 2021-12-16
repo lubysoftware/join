@@ -14,7 +14,7 @@
 
 **Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context.
 
-**URL:** https://autoluby.dev.luby.com.br/login **(Método POST)**
+**URL:** https://autoluby.dev.luby.com.br/login **(Método POST)** **OBSERVAÇÃO: Utilizar o token retornado para autenticação das requisições privadas**
 
 **email:** admin@luby.com.br
 
