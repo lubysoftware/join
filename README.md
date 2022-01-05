@@ -85,3 +85,4 @@ Descrição: todas as datas deverão estar no formato DD/MM/yyyy
 **RNF05 - Gostaríamos que os campos necessários para os endpoints fossem validados na requisição. (OPCIONAL)**
 
 ### **Atenção:** ao finalizar a prova, o candidato deverá seguir as instruções do e-mail recebido!
+#### **Atenção:** em caso de dúvidas, enviar e-mail para labluby@luby.com.br
