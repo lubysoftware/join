@@ -175,3 +175,6 @@ CalcularPremio(100, "basic", 3) == 300.00;//true
 > - A máquina deverá contabilizar e solicitar o valor faltante para finalizar a venda, caso haja valor de troco para deverá informar o valor.
 > - A máquina não necessita de lógica de contagem de notas, será apenas necessário informar os valores.
 > - Caso necessário crie um documento simples com informações de como executar o programa.
+
+
+#### **Atenção:** em caso de dúvidas, enviar e-mail para labluby@luby.com.br
