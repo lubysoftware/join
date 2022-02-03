@@ -15,7 +15,7 @@
 **Descrição:** deve ser possível fazer a autenticação no sistema e dividir as rotas públicas das privadas, você deverá armazenar todos os dados no redux ou context.
 <br/> **Importante: utilizar o token retornado para autenticação das requisições privadas**
 
-**URL:** https://autoluby.dev.luby.com.br/login **(Método POST)**
+**URL:** http://autoluby.k8s.luby.me/login **(Método POST)**
 
 **email:** admin@luby.com.br
 
@@ -25,7 +25,7 @@
 
 **Descrição:** Deve ter uma página para listar os funcionários. Por padrão essa rota retorna uma listagem com paginação, porém, você pode enviar o filtro "noPaginate", por parâmetro na url, para retornar os dados sem paginação.
 
-**URL:** https://autoluby.dev.luby.com.br/employees **(Método GET)**<br />
+**URL:** http://autoluby.k8s.luby.me/employees **(Método GET)**<br />
 **Header:** { <br />
               Accept: application/json,<br />
               Content-Type: application/json,<br />
@@ -36,7 +36,7 @@
 
 **Descrição:** Deve ter uma página para listar todos os veículos vendidos.
 
-**URL:** https://autoluby.dev.luby.com.br/vehicles **(Método GET)**<br />
+**URL:** http://autoluby.k8s.luby.me/vehicles **(Método GET)**<br />
 **Header:** { <br />
               Accept: application/json,<br />
               Content-Type: application/json,<br />
