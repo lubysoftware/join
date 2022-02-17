@@ -2,9 +2,9 @@
 
 > - Esse teste inclui 10 questões envolvendo lógica de programação e estrutura de dados.
 > - 10 questões envolvendo criações de scripts SQL.
-> - Desafio para criação de um pequeno aplicativo que replica um funcionamento de uma máquina de venda de bebidas em lata, utilizando os conceitos em orientação a objetos.
-> - As 10 questões envolvendo lógica de programação e estrutura de dados e o desafio devem ser realizados preferencialmente com **C#**.
-> - Pode ser utilizado qualquer função nativa da própria linguagem utilizada. 
+> - Desafio para criação de um pequeno aplicativo que replica um funcionamento de uma máquina de venda de bebidas em lata, utilizando os conceitos de orientação a objetos.
+> - As 10 questões envolvendo lógica de programação e estrutura de dados + desafio de POO devem ser realizados usando a linguagem **C#**.
+> - Pode ser utilizado qualquer função nativa da própria linguagem. 
 > - Não utilizar dependências ou bibliotecas externas.
 
 -----
@@ -35,7 +35,7 @@ CalcularPremio(100, "vip", null) == 120.00;//true
 CalcularPremio(100, "basic", 3) == 300.00;//true
 ``` 
 -----
-- 1.3 Implemente a função abaixo para contar quantos números primos existe até o número informado.
+- 1.3 Implemente a função abaixo para contar quantos números primos existem até o número informado.
     ```csharp   
     //Número primo: 2
     //Número primo: 3
