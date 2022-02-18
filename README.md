@@ -174,6 +174,7 @@ CalcularPremio(100, "basic", 3) == 300.00;//true
 > - Uma venda só poderá ser concluída ao inserir o valor total do produto.
 > - A máquina deverá contabilizar e solicitar o valor faltante para finalizar a venda, caso haja valor de troco para deverá informar o valor.
 > - A máquina não necessita de lógica de contagem de notas, será apenas necessário informar os valores.
+> - Não é necessário criar um banco de dados para o desafio, podendo ser utilizados dados estáticos
 > - Caso necessário crie um documento simples com informações de como executar o programa.
 
 
