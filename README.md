@@ -61,6 +61,7 @@
 
 **RNF05 - Você deve gerenciar todo o estado do aplicativo com Redux ou Context Api.**
 
-#### **Atenção:** ao finalizar a prova, o candidato deverá seguir as instruções do e-mail recebido!
-
-#### **Atenção:** em caso de dúvidas, enviar e-mail para labluby@luby.com.br
+### **Atenção:** 
+1. CÓPIAS DE PROVAS NÃO SERÃO PERMITIDAS!
+2. Ao finalizar a prova, o candidato deverá seguir as instruções do e-mail recebido!
+3. Em caso de dúvidas, enviar e-mail para labluby@luby.com.br
