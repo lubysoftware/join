@@ -16,18 +16,16 @@ A aplicação sera uma PWA que funcionará em cima da api do gitluby, onde deve 
 
 ### Requisitos não funcionais
 
-- [ ] **RNF01 -** O aplicativo deve usar reactjs.
+- [ ] **RNF01 -** O aplicativo deve usar reactjs
 - [ ] **RNF02 -** Gostaríamos de ver a utilização de TypeScript **(OPCIONAL)**
 - [ ] **RNF03 -** Gostaríamos que os campos de formulário validados com yup **(OPCIONAL)**
 - [ ] **RNF04 -** Gostaríamos de ver você utilizando o styled-components **(OPCIONAL)**
 - [ ] **RNF05 -** Você deve gerenciar suas rotas com o react-router.
-- [ ] **RNF06 -** Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
+- [ ] **RNF06 -** Você deve gerenciar todo o estado do aplicativo com Redux ou Context Api.
 
 ### Requisitos funcionais
 
 - [ ] **RF01 -** Você deve permitir que um usuário seja autenticado buscando pelo username do github
-
-Rota para validação da Autenticação
 ```javascript
 {
   method: 'post',
