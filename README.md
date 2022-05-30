@@ -22,10 +22,10 @@ A aplicação sera uma PWA que funcionará em cima da api do github [Documentaç
 Rota para validação da Autenticação
 ```json
 {
-  HTTP_Verb: POST,
-  URL: https://gitluby.api.k8s.luby.me/login,
-  Headers: { Accept: application/json, Content-Type: application/json },
-  Body: { "username": "#anilton.veiga" }
+  method: 'post',
+  url: 'https://gitluby.api.k8s.luby.me/login',
+  headers: { Accept: 'application/json', Content-Type: 'application/json' },
+  data: { username: "#anilton.veiga" }
 }
 ```
 
