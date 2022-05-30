@@ -16,16 +16,16 @@ A aplicação sera uma PWA que funcionará em cima da api do gitluby, onde deve 
 
 ### Requisitos não funcionais
 
-- [ ] **RF01 -** O aplicativo deve usar reactjs.
-- [ ] **RF02 -**Gostaríamos de ver a utilização de TypeScript **(OPCIONAL)**
-- [ ] **RF03 -**Gostaríamos que os campos de formulário validados com yup **(OPCIONAL)**
-- [ ] **RF04 -**Gostaríamos de ver você utilizando o styled-components **(OPCIONAL)**
-- [ ] **RF05 -**Você deve gerenciar suas rotas com o react-router.
-- [ ] **RF06 -**Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
+- [ ] **RNF01 -** O aplicativo deve usar reactjs.
+- [ ] **RNF02 -** Gostaríamos de ver a utilização de TypeScript **(OPCIONAL)**
+- [ ] **RNF03 -** Gostaríamos que os campos de formulário validados com yup **(OPCIONAL)**
+- [ ] **RNF04 -** Gostaríamos de ver você utilizando o styled-components **(OPCIONAL)**
+- [ ] **RNF05 -** Você deve gerenciar suas rotas com o react-router.
+- [ ] **RNF06 -** Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
 
 ### Requisitos funcionais
 
-- [ ] Você deve permitir que um usuário seja autenticado buscando pelo username do github
+- [ ] **RF01 -** Você deve permitir que um usuário seja autenticado buscando pelo username do github
 
 Rota para validação da Autenticação
 ```javascript
@@ -38,11 +38,11 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [ ] As informações retornadas serão apresentadas na tela de perfil, como apresentado no protótipo 
+- [ ] **RF02 -** As informações retornadas serão apresentadas na tela de perfil, como apresentado no protótipo 
 
 ---
 
-- [ ] Ao clicar no número de seguidores, deve listar todos os seguidores do perfil logado, assim como apresentado no protótipo
+- [ ] **RF03 -** Ao clicar no número de seguidores, deve listar todos os seguidores do perfil logado, assim como apresentado no protótipo
 ```javascript
 {
   method: 'get',
@@ -52,7 +52,7 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [ ] Ao clicar no número de seguindo, deve listar todos os usuários seguidos pelo perfil logado, assim como apresentado no protótipo
+- [ ] **RF04 -** Ao clicar no número de seguindo, deve listar todos os usuários seguidos pelo perfil logado, assim como apresentado no protótipo
 ```javascript
 {
   method: 'get',
@@ -62,7 +62,7 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [ ] Ao clicar no número de repositórios, deve listar todos os repositórios do perfil logado, assim como apresentado no protótipo
+- [ ] **RF05 -** Ao clicar no número de repositórios, deve listar todos os repositórios do perfil logado, assim como apresentado no protótipo
 ```javascript
 {
   method: 'get',
@@ -72,4 +72,4 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [ ] Na tela início, você deve ter um botão que permita o usuário sair da aplicação o redirecionando para a tela de autenticação
+- [ ] **RF06 -** Na tela início, você deve ter um botão que permita o usuário sair da aplicação o redirecionando para a tela de autenticação
