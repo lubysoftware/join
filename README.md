@@ -47,7 +47,7 @@ Rota para validação da Autenticação
 {
   method: 'get',
   url: 'https://gitluby.api.k8s.luby.me/followers',
-  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json', 'Authorization': `Bearer + ${token_returned_login}` }
+  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json', 'Authorization': `Bearer ${token_returned_login}` }
 }
 ```
 ---
@@ -57,7 +57,7 @@ Rota para validação da Autenticação
 {
   method: 'get',
   url: 'https://gitluby.api.k8s.luby.me/followings',
-  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json', 'Authorization': `Bearer + ${token_returned_login}` }
+  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json', 'Authorization': `Bearer ${token_returned_login}` }
 }
 ```
 ---
@@ -67,7 +67,7 @@ Rota para validação da Autenticação
 {
   method: 'get',
   url: 'https://gitluby.api.k8s.luby.me/repositories',
-  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json', 'Authorization': `Bearer + ${token_returned_login}` }
+  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json', 'Authorization': `Bearer ${token_returned_login}` }
 }
 ```
 ---
