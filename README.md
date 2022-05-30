@@ -28,7 +28,7 @@ Rota para validação da Autenticação
   data: { username: "#anilton.veiga" }
 }
 ```
-
+---
 
 - [x] Você deve armazenas as informações de (login, name, email, location, company, bio, avatar_url, followers_url, following_url, organizations_url, starred_url, public_repos, public_gists, followers, following)
 - [x] Você deve possuir uma navegação por abas com items ("Início", "Repositórios", "Seguidores", "Seguindo")
