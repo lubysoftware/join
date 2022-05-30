@@ -20,7 +20,7 @@ A aplicação sera uma PWA que funcionará em cima da api do github [Documentaç
 - [ ] Você deve permitir que um usuário seja autenticado buscando pelo username do github
 
 Rota para validação da Autenticação
-```
+```javascript
 {
   method: 'post',
   url: 'https://gitluby.api.k8s.luby.me/login',
