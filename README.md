@@ -30,7 +30,7 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [] As informações retornadas serão apresentadas na tela de perfil, como apresentado no protótipo 
+- [ ] As informações retornadas serão apresentadas na tela de perfil, como apresentado no protótipo 
 
 ---
 
