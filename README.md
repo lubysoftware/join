@@ -30,8 +30,20 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [x] Você deve armazenas as informações de (login, name, email, location, company, bio, avatar_url, followers_url, following_url, organizations_url, starred_url, public_repos, public_gists, followers, following)
-- [x] Você deve possuir uma navegação por abas com items ("Início", "Repositórios", "Seguidores", "Seguindo")
+- [] As informações retornadas serão apresentadas na tela de perfil, como apresentado no protótipo 
+
+---
+
+- [ ] Ao clicar no número de seguidores, deve listar todos os seguidores do perfil logado
+```javascript
+{
+  method: 'get',
+  url: 'https://gitluby.api.k8s.luby.me/followers',
+  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' }
+}
+```
+---
+
 - [x] Quando clicado nas abas deve ser exibido as listagens respectivas de ("Início", Repositórios: repos_url, Seguidores: followers_url e Seguindo: following_url)
 - [x] Quando o usuário estiver dentro de uma aba de seguidores ou seguindo, você deve ter um botão que torne aquele usuário o principal da aplicação, substituindo o usuário salvo na autenticação pelo usuário da tela atual.
 - [x] Na tela início, você deve ter um botão que permita o usuário sair da aplicação o redirecionando para a tela de autenticação
