@@ -11,7 +11,7 @@ A aplicação sera uma api que armazenara informações a respeito dos usuários
 
 ### Protótipo da aplicação
 
-- [x] A sua Api irá fornecer dados para o protótipo disponibilizado no [link](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/ 'Protótipo')
+- [ ] A sua Api irá fornecer dados para o protótipo disponibilizado no [link](https://xd.adobe.com/view/1798f30c-7746-444c-bffa-91b29835eef5-42cb/ 'Protótipo')
 
 ### Requisitos não funcionais
 
@@ -20,6 +20,7 @@ A aplicação sera uma api que armazenara informações a respeito dos usuários
       data: (array de repositório com suas respectivas stars),
       count: quantidade de itens retornados.
       }
+- [ ] **RNF03 -** Gostaríamos de ver a utilização de TypeScript **(OPCIONAL)**
 
 ### Requisitos funcionais
 
