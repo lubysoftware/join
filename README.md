@@ -1,6 +1,13 @@
 # ReactJS Challenge
 
-A aplicação sera uma PWA que funcionará em cima da api do github [Documentação API GITHUB](https://developer.github.com/v3/ 'Api Github'), onde deve existir uma tela de login que o usuário digitará o nickname de um usuário do github, ao buscar esse usuário, ele deve ser redirecionado para uma tela interna onde estará disponível informações gerais do usuário conforme o protótipo, com uma navegação de tabs para **Início**, **Repositórios**, **Seguidores**, **Seguindo**.
+A aplicação sera uma PWA que funcionará em cima da api do gitluby, onde deve existir uma tela de login que o usuário digitará o nickname de um usuário do github, ao buscar esse usuário, ele deve ser redirecionado para uma tela interna onde estará disponível informações gerais do usuário conforme o protótipo, com uma navegação de tabs para **Início**, **Repositórios**, **Seguidores**, **Seguindo**.
+
+### Observações
+1. Provas duplicadas teram ambos os candidatos desclassificados
+2. Ao finalizar a prova, o candidato deverá seguir as instruções do e-mail recebido!
+3. Em caso de dúvidas, enviar e-mail para labluby@luby.com.br
+4. A integração com a API externa, estão descritas nos **Requisitos Funcionais** da prova
+5. Os **Requisitos não funcionais** marcados com **(OPCIONAL)** poderá ser desenvolvido de acordo com a vontade do candidato
 
 ### Protótipo da aplicação
 
@@ -9,11 +16,12 @@ A aplicação sera uma PWA que funcionará em cima da api do github [Documentaç
 
 ### Requisitos não funcionais
 
-- [ ] O aplicativo deve usar reactjs.
-- [ ] Você deve gerenciar suas rotas com o react-router.
-- [ ] Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
-- [ ] Para estilizar o aplicativo, adoraríamos ver você usando componentes estilizados, mas não é obrigatório.
-- [ ] Adoraríamos ver você usando Typescript para tipar os dados, mas não é obrigatório.
+- [ ] **RF01 -** O aplicativo deve usar reactjs.
+- [ ] **RF02 -**Gostaríamos de ver a utilização de TypeScript **(OPCIONAL)**
+- [ ] **RF03 -**Gostaríamos que os campos de formulário validados com yup **(OPCIONAL)**
+- [ ] **RF04 -**Gostaríamos de ver você utilizando o styled-components **(OPCIONAL)**
+- [ ] **RF05 -**Você deve gerenciar suas rotas com o react-router.
+- [ ] **RF06 -**Você deve gerenciar todo o estado do aplicativo com redux ou Context Api.
 
 ### Requisitos funcionais
 
@@ -34,7 +42,7 @@ Rota para validação da Autenticação
 
 ---
 
-- [ ] Ao clicar no número de seguidores, deve listar todos os seguidores do perfil logado
+- [ ] Ao clicar no número de seguidores, deve listar todos os seguidores do perfil logado, assim como apresentado no protótipo
 ```javascript
 {
   method: 'get',
@@ -44,7 +52,24 @@ Rota para validação da Autenticação
 ```
 ---
 
-- [x] Quando clicado nas abas deve ser exibido as listagens respectivas de ("Início", Repositórios: repos_url, Seguidores: followers_url e Seguindo: following_url)
-- [x] Quando o usuário estiver dentro de uma aba de seguidores ou seguindo, você deve ter um botão que torne aquele usuário o principal da aplicação, substituindo o usuário salvo na autenticação pelo usuário da tela atual.
-- [x] Na tela início, você deve ter um botão que permita o usuário sair da aplicação o redirecionando para a tela de autenticação
-- [x] Na tela início, você deve apenas renderizar as informações do protótipo se a informação de fato existir no retorno da requisição de autenticação.
+- [ ] Ao clicar no número de seguindo, deve listar todos os usuários seguidos pelo perfil logado, assim como apresentado no protótipo
+```javascript
+{
+  method: 'get',
+  url: 'https://gitluby.api.k8s.luby.me/followings',
+  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' }
+}
+```
+---
+
+- [ ] Ao clicar no número de repositórios, deve listar todos os repositórios do perfil logado, assim como apresentado no protótipo
+```javascript
+{
+  method: 'get',
+  url: 'https://gitluby.api.k8s.luby.me/repositories',
+  headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' }
+}
+```
+---
+
+- [ ] Na tela início, você deve ter um botão que permita o usuário sair da aplicação o redirecionando para a tela de autenticação
