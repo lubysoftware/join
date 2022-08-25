@@ -28,31 +28,31 @@ Porém cada um dos tipos possui uma característica específica:
 
 ## **REQUISITOS FUNCIONAIS**
 
-### **RF01 -** Estoque
+### **RF01 -** Estoque:
 
-#### **Cadastro de Itens:**
+#### A) **Cadastro de Itens:**
 
 Descrição: O usuário deverá poder cadastrar itens novos ao estoque.
 
-#### **Remoção de Itens:**
+#### B) **Remoção de Itens:**
 
 Descrição: O usuário deverá poder remover itens ao estoque.
 
-#### **Adição de unidades:**
+#### C) **Adição de unidades:**
 
 Descrição: O usuário deverá poder adicionar unidades de itens em estoque.
 
-#### **Listagem do Estoque:**
+#### D) **Listagem do Estoque:**
 
 Descrição: O usuário deverá poder visualizar uma lista de todos os itens em estoque.
 
-#### **Exportação do Estoque:**
+#### E) **Exportação do Estoque:**
 
 Descrição: O usuário deverá poder exportar um arquivo .txt contendo uma lista de todos os itens em estoque.
 
-### RF02 - Venda
+### RF02 - Venda:
 
-#### **Venda de Itens:**
+#### A) **Venda de Itens:**
 
 Descrição: O usuário deverá poder realizar uma venda de uma ou mais unidades de um item em estoque.
 
@@ -67,7 +67,7 @@ em % e o `Valor com desconto`.
 
 Cada venda deve gerar uma entrada no Log de vendas.
 
-#### **Log de Vendas**
+#### B) **Log de Vendas**
 
 Descrição: O usuário deverá poder visualizar o log de vendas. O log deve mostrar:
 - Número identificador da venda.
@@ -78,7 +78,7 @@ Descrição: O usuário deverá poder visualizar o log de vendas. O log deve mos
 - Custo final.
 
 
-#### **Exportação do Log de Vendas:**
+#### C) **Exportação do Log de Vendas:**
 
 Descrição: O usuário deverá poder exportar um arquivo .txt contendo um log de vendas. Esse arquivo deve 
 conter as mesmas informações que podem ser visualizadas no log dentro da aplicação.
