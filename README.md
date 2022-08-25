@@ -4,7 +4,7 @@
 
 Meus parabéns! Você foi encarregado de criar um sistema para a mais nova Loja de Aventureiros! Aventureiros de todas as
 partes do reino vem a loja em busca de `Itens` para ajudá-los em suas jornadas. Abaixo estão as informações que você precisa
-para realizar essa tarefa. Algumas coisas são são opcionais e vão estar marcadas com _***(Opcional)**_, mas o todas as outras 
+para realizar essa tarefa. Algumas coisas são são opcionais e vão estar marcadas com _**(Opcional)***_, mas o todas as outras 
 são obrigatórias. Então, o que está esperando! Siga em frente, a fila ja está se formando!
 
 _Ahh mais uma coisa! Aqui nós não usamos esse papel como dinheiro. O que manda aqui é são as Peças de Ouro, 
@@ -54,7 +54,7 @@ Descrição: O usuário deverá poder visualizar uma lista de todos os itens em 
 
 Descrição: O usuário deverá poder exportar um arquivo .txt contendo uma lista de todos os itens em estoque.
 
-#### F) **Importação do Estoque:** _***(Opcional)**_
+#### F) **Importação do Estoque:** _**(Opcional)***_
 
 Descrição: O usuário deverá poder importar um arquivo .txt contendo uma lista de todos os itens em estoque e
 aplicar ao estoque.
