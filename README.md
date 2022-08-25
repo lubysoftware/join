@@ -1,4 +1,4 @@
-# Lojinha do Aventureiro
+# Loja do Aventureiro
 
 #### Descrição da prova:
 
