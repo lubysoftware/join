@@ -107,6 +107,7 @@ conter as mesmas informações que podem ser visualizadas no log dentro da aplic
 ## Observações
 Antes de ir para a loja, os magos avaliadores irão análisar sua tarefa. Eles dão bastante importância para algumas coisas:  
 - Organização do código
+- Documentação
 - Performance
 - Escalabilidade
 - Lixo de memória ⇦ _Esse aqui especialmente_
