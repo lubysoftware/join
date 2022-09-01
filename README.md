@@ -120,4 +120,4 @@ Antes de ir para a loja, os magos avaliadores irão análisar sua tarefa. Eles d
 2. Assim que terminar esse Desafio Técnico, siga os seguintes passos: 
 - Suba o repositório no Github no modo privado e adicione o email labluby@luby.com.br como colaborador;
 - Retorne o e-mail que te enviamos anteriormente, respondendo com o link deste repositório.
-3. Em caso de dúvidas, envie uma e-mail para labluby@luby.com.br.
+3. Em caso de dúvidas, envie um e-mail para labluby@luby.com.br.
