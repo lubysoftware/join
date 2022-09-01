@@ -6,7 +6,7 @@ Meus parabéns! Agora você está no Desafio Técnico do LabLuby Games!
 
 Você será responsável por criar um sistema para a mais nova Loja de Aventureiros! Aventureiros de todas as partes do reino vem a 
 loja em busca de `Itens` para ajudá-los em suas jornadas. Abaixo estão as informações que você precisa para realizar essa tarefa. 
-Algumas coisas são são opcionais e vão estar marcadas com _**(Opcional)***_, mas todas as outras são obrigatórias. 
+Algumas coisas são opcionais e vão estar marcadas com _**(Opcional)***_, mas todas as outras são obrigatórias. 
 
 Então, o que está esperando! Siga em frente, a fila ja está se formando!
 
@@ -118,6 +118,7 @@ Antes de ir para a loja, os magos avaliadores irão análisar sua tarefa. Eles d
 ## **Atenção:**
 1. **CÓPIAS DE PROVAS NÃO SERÃO PERMITIDAS!** _(Os magos são muito atentos, não disperdice essa chance!)_
 2. Assim que terminar esse Desafio Técnico, siga os seguintes passos: 
-- Suba o repositório no Github no modo privado e adicione o email labluby@luby.com.br como colaborador;
-- Retorne o e-mail que te enviamos anteriormente, respondendo com o link deste repositório.
+- Suba o projeto para um repositório privado em sua conta pessoal do Github;
+- Adicione o e-mail labluby@luby.com.br como colaborador;
+- Retorne o e-mail que te enviamos anteriormente, respondendo com o link do seu repositório.
 3. Em caso de dúvidas, envie um e-mail para labluby@luby.com.br.
