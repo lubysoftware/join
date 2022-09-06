@@ -116,7 +116,7 @@ Antes de ir para a loja, os magos avaliadores irão análisar sua tarefa. Eles d
 - Lixo de memória ⇦ _Esse aqui especialmente_
 
 ## **Atenção:**
-1. **CÓPIAS DE PROVAS NÃO SERÃO PERMITIDAS!** _(Os magos são muito atentos, não disperdice essa chance!)_
+1. **CÓPIAS DE PROVAS NÃO SERÃO PERMITIDAS!** _(Os magos são muito atentos, não desperdice essa chance!)_
 2. Assim que terminar esse Desafio Técnico, siga os seguintes passos: 
 - Suba o projeto para um repositório privado em sua conta pessoal do Github;
 - Adicione o e-mail labluby@luby.com.br como colaborador;
