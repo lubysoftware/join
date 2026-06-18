@@ -19,3 +19,4 @@ jobs:
     with:
       paths: "."
       fail-on-findings: true
+    secrets: inherit
