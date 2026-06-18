@@ -1,0 +1,21 @@
+# Place this file in each repo at: .github/workflows/security.yml
+# Replace lubysoftware with the GitHub org/user that hosts the security-workflow repo.
+#
+# Coverage:
+#   - pull_request: triggers on PRs targeting ANY branch (catches code before merge).
+#   - push:        re-checks direct pushes to long-lived branches.
+# If your repo doesn't have one of the listed branches, GitHub silently ignores it.
+
+name: Security Gate
+
+on:
+  pull_request:
+  push:
+    branches: [main, master, develop, staging, prod]
+
+jobs:
+  security:
+    uses: lubysoftware/security-workflow/.github/workflows/security-gate.yml@main
+    with:
+      paths: "."
+      fail-on-findings: true
